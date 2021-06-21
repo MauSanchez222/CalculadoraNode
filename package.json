@@ -1,0 +1,19 @@
+{
+  "name": "calculadoranode",
+  "version": "1.0.0",
+  "description": "Calculadora simple en Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MauSanchez222/CalculadoraNode.git"
+  },
+  "author": "Sanchez Mauricio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MauSanchez222/CalculadoraNode/issues"
+  },
+  "homepage": "https://github.com/MauSanchez222/CalculadoraNode#readme"
+}
