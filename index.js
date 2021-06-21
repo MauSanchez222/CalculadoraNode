@@ -1,8 +1,8 @@
 'use strict';
 
-var Calculadora = require('./app/Calculadora')
+var Calculadora = require('./App/Calculadora')
 
-var a = 2;
+var a = 5;
 
 var b = 4;
 
