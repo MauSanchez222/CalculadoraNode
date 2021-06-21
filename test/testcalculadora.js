@@ -1,7 +1,7 @@
 'use strict';
 
 var expect = require("chai").expect;
-var Calculadora = require("../app/Calculadora");
+var Calculadora = require("../App/Calculadora");
 
 describe("Test-Calculadora", function(){
     describe("Testeando operaciones", function(){
