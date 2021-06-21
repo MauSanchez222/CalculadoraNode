@@ -15,7 +15,7 @@ function multiplicar(a,b){
 function dividir(a,b){
 
 if (b === 0) {
-    return new Error ("No se puede dividir por 0");
+    return new Error("No se puede dividir por 0");
 }  else {
     return a/b;
 }
