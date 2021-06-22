@@ -1,2 +1,10 @@
 language: node_js
 node_js: 14.17.1
+deploy: 
+  provide: heroku
+  skip-cleanup: true
+  keep-history: true
+  api-key: fa85d7fe-9008-4f16-8752-924342735411
+  app: calculadora-node
+  on:
+    repo: MauSanchez222/CalculadoraNode
