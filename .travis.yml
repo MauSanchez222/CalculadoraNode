@@ -8,3 +8,7 @@ deploy:
   app: calculadora-node
   on:
     repo: MauSanchez222/CalculadoraNode
+notifications:
+  email:
+    - mauricioasan96@gmail.com
+    

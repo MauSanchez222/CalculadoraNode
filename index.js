@@ -1,6 +1,6 @@
 'use strict';
 
-var Calc = require('./App/Calculadora')
+var Calculadora = require('./App/Calculadora')
 
 var a = 6;
 
