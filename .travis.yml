@@ -10,5 +10,7 @@ deploy:
     repo: MauSanchez222/CalculadoraNode
 notifications:
   email:
-    - mauricioasan96@gmail.com
-    
+    recipients:
+      - mauricioasan96@gmail.com
+    on_success: always
+    on_failure: always
