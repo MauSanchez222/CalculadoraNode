@@ -2,7 +2,7 @@
 
 var Calculadora = require('./App/Calculadora')
 
-var a = 6;
+var a = 10;
 
 var b = 4;
 
