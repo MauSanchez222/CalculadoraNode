@@ -9,8 +9,4 @@ deploy:
   on:
     repo: MauSanchez222/CalculadoraNode
 notifications:
-  email:
-    recipients:
-      - mauricioasan96@gmail.com
-    on_success: always
-    on_failure: always
+  slack: espaciomauric-i2w1863:x5aNb9RdbaqSY9drMgtMCpgt
