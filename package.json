@@ -4,7 +4,7 @@
   "description": "Calculadora simple en Node",
   "main": "index.js",
   "scripts": {
-    "test": "mocha",
+    "test": "mocha ./src/test",
     "start": "node ./src/index.js",
     "dev": "mocha ./src/test && node ./src/index.js",
     "build": "mocha ./src/test && webpack --config webpack.config.js"
