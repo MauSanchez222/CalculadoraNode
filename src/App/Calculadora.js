@@ -1,6 +1,6 @@
 'use strict';
 
-function su(a,b) {
+function suma(a,b) {
     return a+b;
 }
 
